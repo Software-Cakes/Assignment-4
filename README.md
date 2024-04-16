@@ -1,4 +1,4 @@
-# Assignment 4
+![image](https://github.com/Software-Cakes/Assignment-4/assets/117486461/04259fe4-b920-4802-b305-c0d816ea2aa8)# Assignment 4
 A multi-user chat distributed system with utilization of Python Socket and Thread. 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ To create the multi-user chat distributed system, Python3 Socket and Thread were
 
 
 ## Solutions to Design Challenges
-1. Heterogeneity: The developed source code utilized socket programming and thread. Both implementations enable the software to run on disparate oeprating systems within different environments because sockets enables commmunication between different interconnected nodes in the network; thus, achieving multi-user communication. Furthermore, the provided codes can be written in different languages as long as they retain the fundamental operations. 
+1. Heterogeneity: The developed source code utilized socket programming and thread. Both implementations enable the software to run on disparate operating systems within different environments because sockets enable communication between different interconnected nodes in the network; thus, achieving multi-user communication. Furthermore, the provided codes can be written in different languages as long as they retain the fundamental operations.
 2. Openness: The server and clients communicate via TCP sockets, reliable and secure software structures within the network node of computers when handling incoming and outbound connections. Since TCP is widely supported by various systems, it thus facilitates interoperability between different systems as long as the codes are in use. 
 3. Security: While the developed source code for the given assignment has weak security, the implementation of socket.accept() serves as simple acceptance of a requested client communication connection.
 4. Scalability: Built with the purpose to handle large quantity of clients communicating with one another, the presented code has considerbly good scalability. However, future iterations can further strengthen the distributed system's scalability capabilities.  
