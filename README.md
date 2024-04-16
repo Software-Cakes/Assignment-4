@@ -1,4 +1,4 @@
-![image](https://github.com/Software-Cakes/Assignment-4/assets/117486461/04259fe4-b920-4802-b305-c0d816ea2aa8)# Assignment 4
+# Assignment 4
 A multi-user chat distributed system with utilization of Python Socket and Thread. 
 
 ## Table of Contents
