@@ -8,7 +8,7 @@ A multi-user chat distributed system with utilization of Python Socket and Threa
 - [Demonstration Video](#demonstration-video)
 
 ## Overall System Architecture 
-
+![Overall System Architecture](https://github.com/Software-Cakes/Assignment-4/assets/117486461/ce8344c2-e423-46d7-9449-5356429b870d)
 
 
 ## Technologies Used
