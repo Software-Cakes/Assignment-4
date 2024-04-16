@@ -9,14 +9,10 @@ A multi-user chat distributed system with utilization of Python Socket and Threa
 
 ## Overall System Architecture 
 
-**How to Install Server.py and Client.py**:
-
-- Download repository ZIP.
-- Run files on local rich text editor. 
 
 
 ## Technologies Used
-To create the multi-user chat distributed system, Python3 Socket and Thread were implemented and utilized in server.py and client.py for the following justifications: Socket programming is a method in connecting two distinctive nodes in the interconnected network for communication purposes, and thread is the execution of small, functioning program sequence independent from the primary operating system. 
+To create the multi-user chat distributed system, Python3 Socket and Thread were implemented and utilized in server.py and client.py because socket programming enables to connection between two distinctive nodes in the interconnected network for communication purposes while thread is the execution of small, functioning program sequence independent from the primary operating system. 
 
 
 ## Solutions to Design Challenges
